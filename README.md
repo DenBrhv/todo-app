@@ -2,6 +2,8 @@
 
 A beautiful and modern todo application built with Next.js, React, and Tailwind CSS. This app helps you organize your tasks and stay productive with a clean, intuitive interface.
 
+[Live Demo – Todo App](https://todo-app-eta-liard.vercel.app/)
+
 ## Features
 
 - ✨ **Modern UI**: Beautiful gradient background and smooth animations
